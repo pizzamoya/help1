@@ -3,5 +3,5 @@
   tasks:
    - name: "Dimon_Demon" 
      ansible.builtin.file:
-       path: /home/nikita
+       path: /home/nikita/dimon_demon
        state: directory
